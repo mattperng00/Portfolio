@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ComputusAlgorithm"},{"p":"<Unnamed>","l":"ComputusAlgorithmTest"},{"p":"<Unnamed>","l":"ComputusMain"}]
